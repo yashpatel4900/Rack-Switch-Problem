@@ -1,0 +1,58 @@
+Rack Switch Problem
+
+RACK
+Length:  50 
+Height:  40 
+Width:  30 
+Volume:  60000
+
+There are 5 Switches A,B,C,D,E
+A
+Quantity:  5
+Score:  25
+Length:  20
+Height:  5
+Width:  20
+Volume:  2000 
+
+B
+Quantity:  7
+Score:  30
+Length:  30
+Height:  10
+Width:  15
+Volume:  4500 
+
+C
+Quantity:  3
+Score:  20
+Length:  20
+Height:  17
+Width:  15
+Volume:  5100 
+
+D
+Quantity:  5
+Score:  35
+Length:  20
+Height:  10
+Width:  20
+Volume:  4000 
+
+E
+Quantity:  20
+Score:  15
+Length:  10
+Height:  10
+Width:  8
+Volume:  800 
+
+LEVEL NUMBER:  1 HEIGHT OF THIS LEVEL:  10 CURRENT HEIGHT:  10 SWITCHES USED IN THIS LEVEL:  {'A': 0, 'B': 0, 'C': 0, 'D': 0, 'E': 15}
+LEVEL NUMBER:  2 HEIGHT OF THIS LEVEL:  10 CURRENT HEIGHT:  20 SWITCHES USED IN THIS LEVEL:  {'A': 0, 'B': 0, 'C': 0, 'D': 2, 'E': 5}
+LEVEL NUMBER:  3 HEIGHT OF THIS LEVEL:  10 CURRENT HEIGHT:  30 SWITCHES USED IN THIS LEVEL:  {'A': 0, 'B': 2, 'C': 0, 'D': 1, 'E': 0}
+LEVEL NUMBER:  4 HEIGHT OF THIS LEVEL:  5 CURRENT HEIGHT:  35 SWITCHES USED IN THIS LEVEL:  {'A': 2, 'B': 0, 'C': 0, 'D': 0, 'E': 0}
+LEVEL NUMBER:  5 HEIGHT OF THIS LEVEL:  5 CURRENT HEIGHT:  40 SWITCHES USED IN THIS LEVEL:  {'A': 2, 'B': 0, 'C': 0, 'D': 0, 'E': 0}
+
+Total Volume of Rack Occupied by selected switches is:  45000 and Volume which is not used is:  15000
+
+FINAL SCORED OBTAINED:  565 QUANTITY OF SWITCHES LEFT:  {'A': 1, 'B': 5, 'C': 3, 'D': 2, 'E': 0}
